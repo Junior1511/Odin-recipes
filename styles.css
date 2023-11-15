@@ -1,0 +1,19 @@
+body {
+    background-color: bisque;
+}
+h1 {
+    font-family: "Brush Script MT";
+    text-align: center;
+    font-size: 55px;
+}
+h2 {
+    font-size: 30px;
+}
+.index-list {
+    text-align: center;
+    list-style-type: none;
+    font-size: 25px;
+}
+a {
+    text-decoration: none;
+}
